@@ -1,2 +1,1 @@
-# hello-world
-This is my first repository, just learning to use github
+My name is francis kintungi, I love javascript and css.
